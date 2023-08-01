@@ -11,4 +11,4 @@ Um desenvolvedor Front-End brasileiro, recentemente introduzido no mundo da prog
 
 
 ## 🛠 Habilidades
-HTML, CSS, BootStrap, SASS, NPM, WebPack, JavaScript, GIT e GitHub
+HTML, CSS, BootStrap, SASS, JavaScript, GIT e GitHub
