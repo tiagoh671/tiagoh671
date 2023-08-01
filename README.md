@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Tiago! 👋
+# Olá, eu sou o Tiago! 👋
 
 
 ## 🚀 Sobre mim
