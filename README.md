@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Um desenvolvedor Front-End brasileiro, recentemente introduzido no mundo da programação mas sempre buscando cada vez mais conhecimento e experiência...
+Um estudante brasileiro, recentemente introduzido no mundo da programação mas sempre buscando cada vez mais conhecimento e experiência...
 
 
 ## 🔗 Links
