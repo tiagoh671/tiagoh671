@@ -1,6 +1,6 @@
  # Olá, me chamo Tiago!👨🏻‍💻
 
-Sou desenvolvedor web apaixonado por tecnologia.
+Sou desenvolvedor web com foco em JavaScript, React e Node.js. No meu GitHub, compartilho projetos que demonstram minha habilidade em criar soluções web modernas e escaláveis. Sempre buscando aprender e colaborar com a comunidade.
 
 
 ## Stacks utilizadas
