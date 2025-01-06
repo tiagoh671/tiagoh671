@@ -9,7 +9,7 @@ Sou desenvolvedor buscando me aprofundar em aplicações web e conhecendo o lado
 
 **Back-end:** Node, Express, MySQL, API's REST
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,styledcomponents,nextjs,nodejs,git,github,mysql,npm,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,styledcomponents,nextjs,nodejs,express,git,github,mysql,npm,vscode&perline=8)](https://skillicons.dev)
 
 • 🎓 Cursos finalizados pelas plataformas: 
 
@@ -19,7 +19,7 @@ Sou desenvolvedor buscando me aprofundar em aplicações web e conhecendo o lado
 
 ➢**Alura** (Metódos Ágeis: Kanban & Scrum)
 
-➢**RocketSeat** (React Native, Styled Components)
+➢**RocketSeat** (React Native(em andamento), Styled Components)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoh671)
